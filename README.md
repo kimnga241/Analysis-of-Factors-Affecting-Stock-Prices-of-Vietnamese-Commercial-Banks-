@@ -31,7 +31,7 @@ Mục tiêu là xác định các biến số kinh tế, tài chính và thị t
 - **R**: xử lý dữ liệu, phân tích hồi quy 
 ---
 
-## 📌 Kết quả mong đợi
+## 📌 Kết quả 
 - Xác định các yếu tố kinh tế và tài chính quan trọng ảnh hưởng đến giá cổ phiếu ngân hàng.  
 - Xây dựng mô hình OLS dự báo giá cổ phiếu.  
 - Cung cấp insight và khuyến nghị đầu tư dựa trên dữ liệu thực tế.
